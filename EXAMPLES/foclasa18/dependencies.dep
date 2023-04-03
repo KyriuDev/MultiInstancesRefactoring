@@ -1,0 +1,7 @@
+(FillForms, Validate)
+(MedicalCheckUp, Validate)
+(VisaApplication, Validate)
+(Validate, UpdatePersonnelDatabase)
+(Validate, AnticipateWages)
+(Validate, PrepareWelcomeKit)
+(Validate, ArchiveDocuments)

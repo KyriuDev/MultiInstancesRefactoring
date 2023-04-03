@@ -1,0 +1,6 @@
+(PackageGoods, MovePackage)
+(ChooseShipment, RequestCarriersQuotes)
+(ChooseShipment, CheckExtraInsurance)
+(CheckExtraInsurance, TakeExtraInsurance)
+(RequestCarriersQuotes, AssignCarrier)
+(AssignCarrier, MovePackage)

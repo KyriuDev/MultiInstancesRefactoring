@@ -1,0 +1,1 @@
+Execute the program: ./gradlew main --args="<path_to_your_bpmn_file> <IAT>"
