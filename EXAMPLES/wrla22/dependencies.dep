@@ -1,5 +1,0 @@
-(CollectGoods, PrepareParcel)
-(PrepareParcel, DeliveryByCar)
-(PrepareParcel, DeliveryByDrone)
-(Payment, DeliveryByCar)
-(Payment, DeliveryByDrone)
