@@ -1,0 +1,3 @@
+(ApplyOnline, EvaluateApplication)
+(UploadPassport, EvaluateApplication)
+(EvaluateApplication, RejectApplication)
